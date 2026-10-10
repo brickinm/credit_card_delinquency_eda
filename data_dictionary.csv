@@ -2,7 +2,7 @@ variable,description,units,source,notes
 DRCCLACBS,Delinquency rate on credit-card loans at all U.S. commercial banks.,Percent,FRED: https://fred.stlouisfed.org/series/DRCCLACBS,Primary outcome variable.
 DGS10,Market yield on U.S. Treasury securities at a 10-year constant maturity.,Percent per year,FRED: https://fred.stlouisfed.org/series/DGS10,Daily source series. Averaged from monthly to quarterly.
 HOUST,New privately owned housing units started in the United States.,"Thousands of units, seasonally adjusted annual rate (SAAR)",FRED: https://fred.stlouisfed.org/series/HOUST,Monthly source series. Averaged from monthly to quarterly
-UNRATE,Civilian unemployment rate.,Percent,FRED: https://fred.stlouisfed.org/series/UNRATE,Monthly source series, Averaged from monthly to quarterly
+UNRATE,Civilian unemployment rate.,Percent,FRED: https://fred.stlouisfed.org/series/UNRATE,Monthly source series. Averaged from monthly to quarterly
 CPIAUCSL_PC1,"Consumer Price Index for All Urban Consumers (CPI-U), expressed as a year-over-year percentage change.",Percent change from the same period one year earlier,Derived from FRED CPIAUCSL: https://fred.stlouisfed.org/series/CPIAUCSL, Averaged from monthly to quarterly
 PCEPI,Personal Consumption Expenditures price index.,Percent change from the same period one year earlier,,FRED: https://fred.stlouisfed.org/series/PCEPI, Averaged from monthly to quarterly
 A191RL1Q225SBEA,"Percent change in real gross domestic product (GDP), expressed at a seasonally adjusted annual rate.","Percent, annualized quarterly rate",FRED: https://fred.stlouisfed.org/series/A191RL1Q225SBEA,A negative value indicates a contraction at the reported annualized rate; this is not year-over-year GDP growth.
